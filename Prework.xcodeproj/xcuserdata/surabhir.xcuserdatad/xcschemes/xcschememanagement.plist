@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>iOS Tip Calculator.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>407088A725AD07970081AF82</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>407088BD25AD07990081AF82</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>407088C825AD07990081AF82</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
